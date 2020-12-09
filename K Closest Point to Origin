@@ -1,3 +1,4 @@
+Leetcode link : https://leetcode.com/problems/k-closest-points-to-origin/solution/
 #Suresh G --> Python3
 class Solution:
     def kClosest(self, points: List[List[int]], K: int) -> List[List[int]]:
