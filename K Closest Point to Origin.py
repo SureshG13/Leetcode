@@ -1,5 +1,6 @@
-Leetcode link : https://leetcode.com/problems/k-closest-points-to-origin/solution/
+#Leetcode link : https://leetcode.com/problems/k-closest-points-to-origin/solution/
 #Suresh G --> Python3
+
 class Solution:
     def kClosest(self, points: List[List[int]], K: int) -> List[List[int]]:
         points.sort(key = lambda P: P[0]**2 + P[1]**2)
