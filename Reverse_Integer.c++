@@ -1,5 +1,5 @@
-Leetcode link: https://leetcode.com/problems/reverse-integer/
-# Suresh G --> C++
+//Leetcode link: https://leetcode.com/problems/reverse-integer/
+// Suresh G --> C++
 
 class Solution {
 public:
