@@ -1,8 +1,10 @@
 Leetcode link: https://leetcode.com/problems/add-two-numbers/
 #Suresh G --> Java
 
-class Solution {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+class Solution 
+{
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) 
+    {
     ListNode dummyHead = new ListNode(0);
     ListNode p = l1, q = l2, curr = dummyHead;
     int carry = 0;
@@ -16,7 +18,8 @@ class Solution {
         if (p != null) p = p.next;
         if (q != null) q = q.next;
     }
-    if (carry > 0) {
+    if (carry > 0) 
+    {
         curr.next = new ListNode(carry);
     }
     return dummyHead.next;
