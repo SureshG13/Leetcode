@@ -1,5 +1,5 @@
-Leetcode link: https://leetcode.com/problems/number-of-digit-one/description/
-#Suresh G --> C++
+//Leetcode link: https://leetcode.com/problems/number-of-digit-one/description/
+//Suresh G --> C++
 
 class Solution {
 public:
