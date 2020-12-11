@@ -1,6 +1,7 @@
 Leetcode link: https://leetcode.com/problems/maximum-product-subarray/description/
 #Suresh G --> Python3
 
+
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         best = float("-inf")
@@ -19,3 +20,4 @@ class Solution:
                 curr_neg_prod = 1
                 best=max(best,0)
         return best
+
