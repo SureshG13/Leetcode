@@ -1,5 +1,5 @@
-Leetcode link: https://leetcode.com/problems/add-two-numbers/
-#Suresh G --> Java
+//Leetcode link: https://leetcode.com/problems/add-two-numbers/
+//Suresh G --> Java
 
 class Solution 
 {
