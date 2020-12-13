@@ -1,5 +1,5 @@
-Leetcode link: https://leetcode.com/problems/two-sum/description/
-#Suresh G --> Java
+//Leetcode link: https://leetcode.com/problems/two-sum/description/
+//Suresh G --> Java
 
 class Solution 
 {
