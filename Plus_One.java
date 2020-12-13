@@ -1,5 +1,5 @@
-Leetcode link : https://leetcode.com/problems/plus-one/description/
-#Suresh G --> Java
+//Leetcode link : https://leetcode.com/problems/plus-one/description/
+//Suresh G --> Java
 
 class Solution {
 public int[] plusOne(int[] digits) 
