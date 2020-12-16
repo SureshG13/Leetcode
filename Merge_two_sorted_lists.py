@@ -19,3 +19,4 @@ class Solution:
 
         sort_list.next = l1 or l2
         return head.next
+    
