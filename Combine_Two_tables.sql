@@ -1,5 +1,5 @@
 # link: https://leetcode.com/problems/combine-two-tables/
-# Suresh G --> SQL
+# Suresh G --> MYSQL
 
 # Write your MySQL query statement below
 select FirstName, LastName, City, State
